@@ -1,5 +1,10 @@
 # artsobservasjoner-download
 
+This program downloads observations from `artskart.artsdatabanken.no/publicapi`.
+Observations are exposed on GBIF too, but artsdatabanken.no API provide the latest version.
+
+API documentation is available at [artskart.artsdatabanken.no/PublicApi/Help](https://artskart.artsdatabanken.no/PublicApi/Help).
+
 ## Dependencies
 
 - Python
