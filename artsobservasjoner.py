@@ -57,7 +57,7 @@ def get_observations_from_taxon(taxons):
         ).json()
         yield from results["Observations"]
 
-with open("output.csv", "w") as output:
+with open("output.csv", "w", encoding="utf-8") as output:
     output.write("\t".join(fields))
     output.write("\n")
     ids = [get_taxon_from_scientificname(term) for term in terms]
