@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-import requests
-import tqdm
+import requests  # fades
+import tqdm  # fades
 
 API = "https://artskart.artsdatabanken.no/publicapi/"
 areas = "5001"
