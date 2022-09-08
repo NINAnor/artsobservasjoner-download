@@ -12,6 +12,7 @@ fields = [
     "Sex",
     "Status",
     "Count",
+    "Behavior",
     "Locality",
     "Habitat",
     "Latitude",
