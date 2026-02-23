@@ -1,6 +1,6 @@
 # Changes here will be overwritten by Copier
 _commit: v0.1.5
-_src_path: gh:ninanor/python-template
+_src_path: gh:ninanor/template-python
 author_name: Francesco Frassinelli
 debug: false
 default_branch_name: main
